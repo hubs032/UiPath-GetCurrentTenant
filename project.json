@@ -11,7 +11,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "21.10.5.0",
-  "projectVersion": "1.0.1",
+  "projectVersion": "1.0.11",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -46,12 +46,6 @@
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
-    {
-      "filePath": "Main.xaml",
-      "uniqueId": "bbfb00fa-f74c-4cc1-ab4b-a769e74a8e2b",
-      "input": [],
-      "output": []
-    },
     {
       "filePath": "Tenant.xaml",
       "uniqueId": "2dd681c0-4039-46a5-9eba-cf78cf3143af",
