@@ -7,9 +7,9 @@
 ## Ignore .tmh folder
 
 ## .local
-.local/*
+!.local/*
 ## /.local
-/.local/*
+!/.local/*
 !.local/.analysis
 !.local/.analysis/*
 !/.local/.analysis
